@@ -20,7 +20,7 @@ Highlights:
 - **Self-healing fleet** — devices enroll themselves, report failures from RTC-buffered logs when they recover, and re-enroll automatically if the server loses the roster.
 - **Webhook widget** — POST any JSON to an endpoint and it renders on the panel (TRMNL-private-plugin style).
 
-*Repo is being prepared for open source (secret-history scrub in progress) — happy to share details in the meantime.*
+*Repo is private for now — happy to share details or a demo.*
 
 ## 🔭 Also building
 
