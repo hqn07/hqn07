@@ -8,7 +8,7 @@ A server-rendered, newspaper-style dashboard for Waveshare 7.5" e-paper panels d
 
 ![E-ink dashboard render](images/eink-dashboard.png)
 
-The ESP32 is deliberately dumb: it wakes, downloads a packed 1-bit (or two-plane 3-color) image, paints it, and deep-sleeps. Everything else — 27 widgets, a drag-and-drop React editor, screen scheduling, ordered-dither tone/texture system, per-device fleet API, OTA firmware from CI, captive-portal WiFi setup — lives on a Node server.
+The ESP32 is deliberately dumb: it wakes, downloads a packed 1-bit (or two-plane 3-color) image, paints it, and deep-sleeps. Everything else — 28 widgets, a drag-and-drop React editor, screen scheduling, ordered-dither tone/texture system, per-device fleet API, OTA firmware from CI, captive-portal WiFi setup — lives on a Node server.
 
 <p align="center">
   <img src="images/eink-weather.png" width="70%" alt="Weather screen with dithered condition bars">
